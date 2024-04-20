@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranil Bhosale</h1>
 <h3 align="center">A passionate frontend developer / Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://pranil-tech.github.io/portfolio/](https://pranil-tech.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at https://drive.google.com/file/d/1vlTTNuqcKwRUSZBpLxtd2mN35uQsMDEn/view?usp=sharing
 
 - 💬 Ask me about **C++ | Frontend Development**
 
