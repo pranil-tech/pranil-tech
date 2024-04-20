@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pranil Bhosale</h1>
 <h3 align="center">A passionate frontend developer / Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at https://drive.google.com/file/d/1vlTTNuqcKwRUSZBpLxtd2mN35uQsMDEn/view?usp=sharing
+- 👨‍💻 All of my projects are available at [https://pranil-tech.github.io/portfolio/](https://pranil-tech.github.io/portfolio/)
 
 - 💬 Ask me about **C++ | Frontend Development**
 
 - 📫 How to reach me **praneel0905@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K9HNKgBX3LaxWDIqPp-Ugs4FTfAB_O9w/view?usp=drive_link](https://drive.google.com/file/d/1K9HNKgBX3LaxWDIqPp-Ugs4FTfAB_O9w/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vlTTNuqcKwRUSZBpLxtd2mN35uQsMDEn/view?usp=drive_link](https://drive.google.com/file/d/1vlTTNuqcKwRUSZBpLxtd2mN35uQsMDEn/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
