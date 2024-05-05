@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, Welcome to the  praneel_tech world</h1>
+<h1 align="center">Hey👋, Welcome to the  praneel-tech world</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://pranil-tech.github.io/portfolio/](https://pranil-tech.github.io/portfolio/)
