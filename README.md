@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, Welcome to the  praneel-tech world</h1>
+<h1 align="center">Hey, Welcome to praneel-tech world</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://pranil-tech.github.io/portfolio/](https://pranil-tech.github.io/portfolio/)
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1AJ82vFKRy1JMwtQw_P8piuIGt3jOYp31/edit?usp=sharing&ouid=105023214544759845057&rtpof=true&sd=true](https://docs.google.com/document/d/1AJ82vFKRy1JMwtQw_P8piuIGt3jOYp31/edit?usp=sharing&ouid=105023214544759845057&rtpof=true&sd=true)
 
-- ⚡ Fun fact **code->innovation**
+- ⚡ Fun fact **; make code easy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
